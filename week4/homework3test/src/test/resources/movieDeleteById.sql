@@ -1,0 +1,1 @@
+Delete from movie where id = 4

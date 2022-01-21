@@ -1,0 +1,1 @@
+Delete from watch_list where id = 80 && id = 81
